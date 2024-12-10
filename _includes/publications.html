@@ -1,0 +1,32 @@
+
+<p>See my <a href="https://scholar.google.com/citations?user=GD_VE9oAAAAJ&hl=en">Google Scholar profile</a> for a full list.</p>
+
+<div class="publications">
+
+{% for pub in site.data.publications.main %}
+
+<div class="container">
+  <div class="row">
+    <div class="col-sm-4">
+      <img src="{{ pub.image }}" class="">
+    </div>
+    <div class="col-sm-8">
+      <b>{{ pub.title }}</b><br />
+      {{ pub.authors }}<br />
+      
+      {% if pub.conference_link %}
+      <a href="{{ pub.conference_link }}">{{ pub.conference }}</a><br />
+      {% else %}
+      {{ pub.conference }}<br />
+      {% endif %}
+
+      {% for link in pub.links %}
+        <a class="btn" href="{{ link.url }}">{{ link.name }}</a>
+      {% endfor %}
+    </div>
+  </div>
+</div>
+
+{% endfor %}
+
+</div>

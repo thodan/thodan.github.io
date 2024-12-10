@@ -1,0 +1,305 @@
+@import "fonts";
+@import "rouge-github";
+
+body {
+  background-color: #fff;
+  padding:50px;
+  font: 15px/1.5 "Noto Sans", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color:#111;
+  font-weight:400;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color:#111;
+  margin:0 0 20px;
+  font-weight:normal;
+}
+
+p, ul, ol, table, pre, dl {
+  margin:0 0 20px;
+}
+
+h1, h2, h3 {
+  line-height:1.1;
+}
+
+h1 {
+  font-size:28px;
+}
+
+h2 {
+  color:#393939;
+}
+
+h3, h4, h5, h6 {
+  color:#494949;
+}
+
+a {
+  color:#002FA7;
+  text-decoration:none;
+}
+
+a:hover, a:focus {
+  text-decoration:underline;
+}
+
+a small {
+  font-size:11px;
+  color:#777;
+  margin-top:-0.3em;
+  display:block;
+}
+
+a:hover small {
+  color:#777;
+}
+
+.wrapper {
+  width:1000px;
+  margin:0 auto;
+}
+
+blockquote {
+  border-left:1px solid #e5e5e5;
+  margin:0;
+  padding:0 0 0 20px;
+  font-style:italic;
+}
+
+code, pre {
+  font-family:Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+  color:#333;
+}
+
+pre {
+  padding:8px 15px;
+  background: #f8f8f8;
+  border-radius:5px;
+  border:1px solid #e5e5e5;
+  overflow-x: auto;
+}
+
+table {
+  width:100%;
+  border-collapse:collapse;
+}
+
+th, td {
+  text-align:left;
+  padding:5px 10px;
+  border-bottom:1px solid #e5e5e5;
+}
+
+dt {
+  color:#444;
+  font-weight:700;
+}
+
+th {
+  color:#444;
+}
+
+img {
+  max-width:100%;
+}
+
+kbd {
+  background-color: #fafbfc;
+  border: 1px solid #c6cbd1;
+  border-bottom-color: #959da5;
+  border-radius: 3px;
+  box-shadow: inset 0 -1px 0 #959da5;
+  color: #444d56;
+  display: inline-block;
+  font-size: 11px;
+  line-height: 10px;
+  padding: 3px 5px;
+  vertical-align: middle;
+}
+
+header {
+  width: 200px;
+  float:left;
+  position:fixed;
+  text-align: center;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+.avatar {
+  border-radius: 100%;
+  width: 200px;
+  margin: 0 0 20px 0;
+}
+
+.social_icons {
+  font-size:28px;
+  line-height:36px;
+  padding: 0 0 20px 0;
+}
+
+.social_icons a {
+  color:#111;
+  text-decoration:none;
+}
+
+.social_icons a:hover, .social_icons a:focus {
+  color:#002FA7;
+}
+
+.menu {
+  padding: 0 0 20px 0;
+}
+
+.menu a {
+  display: block;
+  padding: 0 10px 0 0;
+}
+
+.menu a:hover, .menu a:focus {
+}
+
+section {
+  width:750px;
+  float:right;
+  padding-bottom:50px;
+}
+
+small {
+  font-size:11px;
+}
+
+hr {
+  border:0;
+  background:#e5e5e5;
+  height:1px;
+  margin:0 0 20px;
+}
+
+footer {
+  width:270px;
+  float:left;
+  position:fixed;
+  bottom:50px;
+  -webkit-font-smoothing:subpixel-antialiased;
+}
+
+.news {
+  margin:0 0 20px;
+}
+
+.news .col_date {
+  padding-right: 0;
+}
+.news .col_content {
+  padding-left: 0;
+}
+
+.publications {
+  padding-bottom: 10px;
+}
+
+.publications .pub_item {
+  font-style:normal;
+  padding: 0;
+}
+
+.publications .btn {
+  margin: 4px 0 0 0;
+  padding: 1px 5px 2px 5px;
+  color: #002FA7;
+  background: #002FA715;
+  border: none !important;
+  border-radius: 4px;
+  font-size: 15px;
+}
+
+.publications .btn:hover, .publications .btn:focus {
+  color: #fff;
+  background: #002FA7;
+  text-decoration:none;
+}
+
+.publications .row {
+  padding: 0;
+  padding: 0 0 10px 0;
+}
+
+.publications .col-sm-4 {
+  padding: 0 20px 10px 0;
+}
+
+.publications .col-sm-8 {
+  padding: 0 0 10px 0;
+}
+
+@media print, screen and (max-width: 1100px) {
+
+  div.wrapper {
+    width:auto;
+    margin:0;
+  }
+
+  header, section, footer {
+    float:none;
+    position:static;
+    width:auto;
+  }
+
+  section {
+    border:1px solid #e5e5e5;
+    border-width:1px 0;
+    padding:20px 0;
+    margin:0 0 20px;
+  }
+
+  header a small {
+    display:inline;
+  }
+
+  header ul {
+    position:absolute;
+    right:50px;
+    top:52px;
+  }
+}
+
+@media print, screen and (max-width: 720px) {
+  body {
+    word-wrap:break-word;
+  }
+
+  header {
+    padding:0;
+  }
+
+  header ul, header p.view {
+    position:static;
+  }
+
+  pre, code {
+    word-wrap:normal;
+  }
+}
+
+@media print, screen and (max-width: 480px) {
+  body {
+    padding:15px;
+  }
+
+  .downloads {
+    width:99%;
+  }
+
+  .downloads li, .downloads li + li + li {
+    width:33%;
+  }
+}
+
+@media print {
+  body {
+    padding:0.4in;
+    font-size:12pt;
+    color:#444;
+  }
+}

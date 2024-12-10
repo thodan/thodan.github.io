@@ -1,0 +1,309 @@
+main:
+
+
+  - title: "HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos"
+    authors: Prithviraj Banerjee, Sindi Shkodrani, Pierre Moulon, Shreyas Hampali, Shangchen Han, Fan Zhang, Linguang Zhang, Jade Fountain, Edward Miller, Selen Basol, Richard Newcombe, Robert Wang, Jakob Julian Engel, <u>Tomas Hodan</u>
+    conference: arXiv 2024
+    image: assets/img/banerjee2024hot3d_thumb.jpg
+    links:
+      - name: Paper
+        url: https://arxiv.org/pdf/2411.19167
+      - name: Web
+        url: https://facebookresearch.github.io/hot3d
+
+
+  - title: "DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions"
+    authors: Sammy Christen, Shreyas Hampali, Fadime Sener, Edoardo Remelli, <u>Tomas Hodan</u>, Eric Sauser, Shugao Ma, Bugra Tekin
+    conference: SIGGRAPH Asia 2024, Tokyo
+    conference_link: https://asia.siggraph.org/2024/
+    image: assets/img/cristen2024diffh20_thumb.jpg
+    links:
+      - name: Paper
+        url: https://arxiv.org/pdf/2403.17827
+      - name: Web
+        url: https://diffh2o.github.io/
+
+
+  - title: "FoundPose: Unseen Object Pose Estimation with Foundation Features"
+    authors: Evin Pınar Örnek, Yann Labbé, Bugra Tekin, Lingni Ma, Cem Keskin, Christian Forster, <u>Tomas Hodan</u>
+    conference: ECCV 2024, Milan
+    conference_link: https://eccv.ecva.net/Conferences/2024
+    image: assets/img/ornek2024foundpose_thumb.jpg
+    links:
+      - name: Paper
+        url: https://arxiv.org/pdf/2311.18809
+      - name: Web
+        url: https://evinpinar.github.io/foundpose/
+      - name: Code
+        url: https://github.com/facebookresearch/foundpose
+
+
+  - title: BOP Challenge 2023 on Detection, Segmentation and Pose Estimation of Seen and Unseen Rigid Objects
+    authors: <u>Tomas Hodan</u>, Martin Sundermeyer, Yann Labbé, Van Nguyen Nguyen, Gu Wang, Eric Brachmann, Bertram Drost, Vincent Lepetit, Carsten Rother, Jiri Matas
+    conference: CVPR Workshops (CV4MR) 2024, Seattle
+    conference_link: https://cv4mr.github.io/
+    image: assets/img/hodan2023bop_thumb.jpg
+    links:
+      - name: Paper
+        url: https://openaccess.thecvf.com/content/CVPR2024W/CV4MR/papers/Hodan_BOP_Challenge_2023_on_Detection_Segmentation_and_Pose_Estimation_of_CVPRW_2024_paper.pdf
+      - name: Web
+        url: https://bop.felk.cvut.cz/challenges/bop-challenge-2023/
+
+
+  - title: "CNOS: A Strong Baseline for CAD-based Novel Object Segmentation"
+    authors: Van Nguyen Nguyen, Thibault Groueix, Georgy Ponimatkin, Vincent Lepetit, <u>Tomas Hodan</u>
+    conference: ICCV Workshops (R6D) 2023, Vancouver
+    conference_link: https://cmp.felk.cvut.cz/sixd/workshop_2023/
+    image: assets/img/nguyen2023cnos_thumb.jpg
+    links:
+      - name: Paper
+        url: https://openaccess.thecvf.com/content/ICCV2023W/R6D/papers/Nguyen_CNOS_A_Strong_Baseline_for_CAD-Based_Novel_Object_Segmentation_ICCVW_2023_paper.pdf
+      - name: Code
+        url: https://github.com/nv-nguyen/cnos
+
+
+  - title: In-Hand 3D Object Scanning from an RGB Sequence
+    authors: Shreyas Hampali, <u>Tomas Hodan</u>, Luan Tran, Lingni Ma, Cem Keskin, Vincent Lepetit
+    conference: CVPR 2023, Vancouver
+    conference_link: https://cvpr.thecvf.com/Conferences/2023
+    image: assets/img/hampali2023inhand_thumb.jpg
+    links:
+      - name: Paper
+        url: https://openaccess.thecvf.com/content/CVPR2023/papers/Hampali_In-Hand_3D_Object_Scanning_From_an_RGB_Sequence_CVPR_2023_paper.pdf
+      - name: Web
+        url: https://rgbinhandscanning.github.io/
+      - name: Video
+        url: https://www.youtube.com/watch?v=OaBKtUBbn3M
+      - name: BibTeX
+        url: https://cmp.felk.cvut.cz/~hodanto2/data/hampali2023inhand.bib
+
+
+  - title: "AssemblyHands: Towards Egocentric Activity Understanding via 3D Hand Pose Estimation"
+    authors: Takehiko Ohkawa, Kun He, Fadime Sener, <u>Tomas Hodan</u>, Luan Tran, Cem Keskin
+    conference: CVPR 2023, Vancouver
+    conference_link: https://cvpr.thecvf.com/Conferences/2023
+    image: assets/img/ohkawa2022assemblyhands_thumb.jpg
+    links:
+      - name: Paper
+        url: http://openaccess.thecvf.com/content/CVPR2023/papers/Ohkawa_AssemblyHands_Towards_Egocentric_Activity_Understanding_via_3D_Hand_Pose_Estimation_CVPR_2023_paper.pdf
+      - name: Web
+        url: https://assemblyhands.github.io
+
+
+  - title: BOP Challenge 2022 on Detection, Segmentation and Pose Estimation of Specific Rigid Objects
+    authors: Martin Sundermeyer, <u>Tomas Hodan</u>, Yann Labbé, Gu Wang, Eric Brachmann, Bertram Drost, Carsten Rother, Jiri Matas
+    conference: CVPR Workshops (CV4MR) 2023, Vancouver
+    conference_link: https://cv4mr.github.io/
+    image: assets/img/sundermeyer2022bop_thumb.jpg
+    links:
+      - name: Paper
+        url: https://openaccess.thecvf.com/content/CVPR2023W/CV4MR/papers/Sundermeyer_BOP_Challenge_2022_on_Detection_Segmentation_and_Pose_Estimation_of_CVPRW_2023_paper.pdf
+      - name: Web
+        url: https://bop.felk.cvut.cz/challenges/bop-challenge-2022/
+      - name: BibTeX
+        url: assets/data/sundermeyer2022bop.bib
+
+
+  - title: "UmeTrack: Unified Multi-View End-to-End Hand Tracking for VR"
+    authors: Shangchen Han, Po-chen Wu, Yubo Zhang, Beibei Liu, Linguang Zhang, Zheng Wang, Weiguang Si, Peizhao Zhang, Yujun Cai, <u>Tomas Hodan</u>, Randi Cabezas, Luan Tran, Muzaffer Akbay, Tsz-Ho Yu, Cem Keskin, Robert Wang
+    conference: SIGGRAPH Asia 2022, Daegu
+    conference_link: https://sa2022.siggraph.org/en/index.html
+    image: assets/img/han2022umetrack_thumb.jpg
+    links:
+      - name: Paper
+        url: https://dl.acm.org/doi/pdf/10.1145/3550469.3555378
+      - name: Code
+        url: https://github.com/facebookresearch/UmeTrack
+
+
+  - title: Neural Correspondence Field for Object Pose Estimation
+    authors: Lin Huang, <u>Tomas Hodan</u>, Lingni Ma, Linguang Zhang, Luan Tran, Christopher Twigg, Po-Chen Wu, Junsong Yuan, Cem Keskin, Robert Wang
+    conference: ECCV 2022, Tel-Aviv
+    conference_link: https://eccv2022.eu/
+    image: assets/img/huang2022ncf_thumb.jpg
+    links:
+      - name: Paper
+        url: https://arxiv.org/pdf/2208.00113.pdf
+      - name: Code
+        url: https://github.com/LinHuang17/NCF-code
+      - name: Web
+        url: https://linhuang17.github.io/NCF/
+      - name: BibTeX
+        url: assets/data/huang2022ncf.bib
+
+
+  - title: "LISA: Learning Implicit Shape and Appearance of Hands"
+    authors: Enric Corona, <u>Tomas Hodan</u>, Minh Vo, Francesc Moreno-Noguer, Chris Sweeney, Richard Newcombe, Lingni Ma
+    conference: CVPR 2022, New Orleans
+    conference_link: https://cvpr2022.thecvf.com/
+    image: assets/img/corona2022lisa_thumb.jpg
+    links:
+      - name: Paper
+        url: http://www.iri.upc.edu/people/ecorona/lisa/paper.pdf
+      - name: Web
+        url: https://www.iri.upc.edu/people/ecorona/lisa/
+      - name: BibTeX
+        url: assets/data/corona2022lisa.bib
+
+
+  - title: BOP Challenge 2020 on 6D Object Localization
+    authors: <u>Tomas Hodan</u>, Martin Sundermeyer, Bertram Drost, Yann Labbé, Eric Brachmann, Frank Michel, Carsten Rother, Jiri Matas
+    conference: ECCV Workshops (R6D) 2020, Glasgow
+    conference_link: https://cmp.felk.cvut.cz/sixd/workshop_2020/
+    image: assets/img/hodan2020bop_thumb.jpg
+    links:
+      - name: Paper
+        url: https://arxiv.org/pdf/2009.07378.pdf
+      - name: Web
+        url: https://bop.felk.cvut.cz/challenges/bop-challenge-2020/
+      - name: Workshop
+        url: http://cmp.felk.cvut.cz/sixd/workshop_2020/
+      - name: BibTeX
+        url: assets/data/hodan2020bop.bib
+
+
+  - title: Learning Surrogates via Deep Embedding
+    authors: Yash Patel, <u>Tomas Hodan</u>, Jiri Matas
+    conference: ECCV 2020, Glasgow
+    conference_link: https://eccv2020.eu/
+    image: assets/img/patel2020learning_thumb.jpg
+    links:
+      - name: Paper
+        url: https://arxiv.org/pdf/2007.00799.pdf
+      - name: Video
+        url: https://www.youtube.com/watch?v=22vKTHW8lJE
+      - name: BibTeX
+        url: assets/data/patel2020learning.bib
+
+
+  - title: "BlenderProc: Reducing the Reality Gap with Photorealistic Rendering"
+    authors: Maximilian Denninger, Martin Sundermeyer, Dominik Winkelbauer, Dmitry Olefir, <u>Tomas Hodan</u>, Youssef Zidan, Mohamad Elbadrawy, Markus Knauer, Harinandan Katam, Ahsan Lodhi
+    conference: RSS Workshops 2020, Corvallis
+    conference_link: https://roboticsconference.org/2020/
+    image: assets/img/denninger2020blenderproc_thumb.jpg
+    links:
+      - name: Paper
+        url: https://sim2real.github.io/assets/papers/2020/denninger.pdf
+      - name: Code
+        url: https://github.com/DLR-RM/BlenderProc
+      - name: Video
+        url: https://www.youtube.com/watch?v=tQ59iGVnJWM
+      - name: BibTeX
+        url: assets/data/denninger2020blenderproc.bib
+
+
+  - title: "EPOS: Estimating 6D Pose of Objects with Symmetries"
+    authors: <u>Tomas Hodan</u>, Daniel Barath, Jiri Matas
+    conference: CVPR 2020, Seattle
+    conference_link: https://cvpr2020.thecvf.com/
+    image: assets/img/hodan2020epos_thumb.jpg
+    links:
+      - name: Paper
+        url: http://openaccess.thecvf.com/content_CVPR_2020/papers/Hodan_EPOS_Estimating_6D_Pose_of_Objects_With_Symmetries_CVPR_2020_paper.pdf
+      - name: Code
+        url: https://github.com/thodan/epos
+      - name: Web
+        url: http://cmp.felk.cvut.cz/epos/
+      - name: Video
+        url: https://www.youtube.com/watch?v=OXjG0YPqLnE
+      - name: Demo
+        url: https://www.youtube.com/watch?v=7YOfcayv67w
+      - name: BibTeX
+        url: assets/data/hodan2020epos.bib
+
+
+  - title: Photorealistic Image Synthesis for Object Instance Detection
+    authors: <u>Tomas Hodan</u>, Vibhav Vineet, Ran Gal, Emanuel Shalev, Jon Hanzelka, Treb Connell, Pedro Urbina, Sudipta N. Sinha, Brian Guenter
+    conference: ICIP 2019, Taipei
+    conference_link: https://www.2019.ieeeicip.org/
+    image: assets/img/hodan2019photorealistic_thumb.jpg
+    links:
+      - name: Paper
+        url: https://arxiv.org/pdf/1902.03334.pdf
+      - name: Dataset
+        url: https://thodan.github.io/objectsynth/
+      - name: Slides
+        url: assets/data/hodan2019photorealistic_slides_icip.pdf
+      - name: BibTeX
+        url: assets/data/hodan2019photorealistic.bib
+
+
+  - title: "BOP: Benchmark for 6D Object Pose Estimation"
+    authors: <u>Tomas Hodan</u>, Frank Michel, Eric Brachmann, Wadim Kehl, Anders Glent Buch, Dirk Kraft, Bertram Drost, Joel Vidal, Stephan Ihrke, Xenophon Zabulis, Caner Sahin, Fabian Manhardt, Federico Tombari, Tae-Kyun Kim, Jiri Matas, Carsten Rother
+    conference: ECCV 2018, Munich
+    conference_link: https://eccv2018.org/
+    image: assets/img/hodan2018bop_thumb.jpg
+    links:
+      - name: Paper
+        url: assets/data/hodan2018bop.pdf
+      - name: Web
+        url: https://bop.felk.cvut.cz/
+      - name: Slides
+        url: assets/data/hodan2018bop_slides_eccv.pdf
+      - name: Poster
+        url: assets/data/hodan2018bop_poster.pdf
+      - name: BibTeX
+        url: assets/data/hampali2023inhand.bib
+
+
+  - title: "T-LESS: An RGB-D Dataset for 6D Pose Estimation of Texture-less Objects"
+    authors: <u>Tomas Hodan</u>, Pavel Haluza, Stepan Obdrzalek, Jiri Matas, Manolis Lourakis, Xenophon Zabulis
+    conference: WACV 2017, Santa Rosa
+    conference_link: https://www.computer.org/csdl/proceedings/wacv/2017/12OmNy314bx
+    image: assets/img/hodan2017tless_thumb.jpg
+    links:
+      - name: Paper
+        url: assets/data/hodan2017tless.pdf
+      - name: Web
+        url: http://cmp.felk.cvut.cz/t-less/
+      - name: Slides
+        url: assets/data/hodan2017tless_slides_eccvw.pdf
+      - name: Poster
+        url: assets/data/hodan2017tless_poster.pdf
+      - name: BibTeX
+        url: assets/data/hodan2017tless.bib
+
+
+  - title: On Evaluation of 6D Object Pose Estimation
+    authors: <u>Tomas Hodan</u>, Jiri Matas, Stepan Obdrzalek
+    conference: ECCV Workshops 2016, Amsterdam
+    conference_link: https://labicvl.github.io/R6D
+    image: assets/img/hodan2016evaluation_thumb.jpg
+    links:
+      - name: Paper
+        url: assets/data/hodan2016evaluation.pdf
+      - name: Slides
+        url: assets/data/hodan2016evaluation_slides_eccvw.pdf
+      - name: Code
+        url: https://github.com/thodan/obj_pose_eval
+      - name: BibTeX
+        url: assets/data/hodan2016evaluation.bib
+
+
+  - title: Detection and Fine 3D Pose Estimation of Texture-less Objects in RGB-D Images
+    authors: <u>Tomas Hodan</u>, Xenophon Zabulis, Manolis Lourakis, Stepan Obdrzalek, Jiri Matas
+    conference: IROS 2015, Hamburg
+    conference_link: https://iros2015.informatik.uni-hamburg.de/index.html
+    image: assets/img/hodan2015detection_thumb.jpg
+    links:
+      - name: Paper
+        url: assets/data/hodan2015detection.pdf
+      - name: Slides
+        url: assets/data/hodan2015detection_slides_iros.pdf
+      - name: Video
+        url: https://youtu.be/7UugWBRve3I
+      - name: BibTeX
+        url: assets/data/hodan2015detection.bib
+
+
+  - title: Efficient Texture-less Object Detection for Augmented Reality Guidance
+    authors: <u>Tomas Hodan</u>, Dima Damen, Walterio Mayol-Cuevas, Jiri Matas
+    conference: ISMAR Workshops 2015, Fukuoka
+    conference_link: https://ismar2015.vgtc.org/
+    image: assets/img/hodan2015efficient_thumb.jpg
+    links:
+      - name: Paper
+        url: assets/data/hodan2015efficient.pdf
+      - name: BibTeX
+        url: assets/data/hodan2015efficient.bib
+

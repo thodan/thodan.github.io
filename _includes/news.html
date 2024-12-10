@@ -1,0 +1,25 @@
+
+{% assign NUM_SHOWN_NEWS = 10 %}
+
+<div class="container news">
+
+{% for item in site.data.news.main %}
+
+{% if forloop.index == NUM_SHOWN_NEWS && site.data.news.main | size >= NUM_SHOWN_NEWS %}
+<div class="collapse" id="more_content">
+{% endif %}
+
+
+<div class="row">
+<div class="col-auto col_date"><b>{{ item.date }}</b> –&nbsp;</div><div class="col col_content">{{ item.text }}</div>
+</div>
+
+{% endfor %}
+
+{% if site.data.news.main | size >= NUM_SHOWN_NEWS %}
+</div>
+{% endif %}
+
+<a href="#" data-bs-toggle="collapse" data-bs-target="#more_content" aria-expanded="true" aria-controls="more_content" id="toggle_button">Show more</a>
+
+</div>

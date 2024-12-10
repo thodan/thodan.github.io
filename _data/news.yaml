@@ -1,0 +1,72 @@
+main:
+
+  - date: 2024/10/03
+    text: <a href="https://arxiv.org/pdf/2311.18809">FoundPose</a> presented at <a href="https://eccv2024.ecva.net/">ECCV 2024</a> in Milan.
+  - date: 2024/09/29
+    text: Organized the <a href="http://cmp.felk.cvut.cz/sixd/workshop_2024">9th R6D Workshop</a> at <a href="https://eccv2024.ecva.net/">ECCV 2024</a> in Milan (<a href="https://www.youtube.com/watch?v=C45a6v0fToY">recording</a>).
+  - date: 2024/06/13
+    text: <a href="https://facebookresearch.github.io/hot3d/">HOT3D dataset</a> released!
+  - date: 2024/05/29
+    text: <a href="https://bop.felk.cvut.cz/challenges/bop-challenge-2024/">BOP Challenge 2024</a> opened.
+  - date: 2024/04/04
+    text: Invited talk at <a href="https://cmp.felk.cvut.cz/colloquium/">47th PR&CV Colloquium</a> in Prague (<a href="https://docs.google.com/presentation/d/1_DKVMzrIcz6y2pHZ0w9oKVi1Ac0tBJTCZSv1lFLvTyM/edit?usp=sharing">slides</a>).
+  - date: 2023/10/03
+    text: Organized the <a href="http://cmp.felk.cvut.cz/sixd/workshop_2023">8th R6D Workshop</a> at <a href="https://iccv2023.thecvf.com/">ICCV 2023</a> in Paris.
+  - date: 2023/07/06
+    text: <a href="https://bop.felk.cvut.cz/challenges/bop-challenge-2023/">BOP Challenge 2023</a> opened.
+  - date: 2023/02/27
+    text: Two papers accepted to <a href="https://cvpr2023.thecvf.com/">CVPR 2023</a> (<a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Hampali_In-Hand_3D_Object_Scanning_From_an_RGB_Sequence_CVPR_2023_paper.pdf">In-hand 3D object scanning</a> and <a href="https://openaccess.thecvf.com/content/CVPR2023/papers/Ohkawa_AssemblyHands_Towards_Egocentric_Activity_Understanding_via_3D_Hand_Pose_Estimation_CVPR_2023_paper.pdf">AssemblyHands</a>).
+  - date: 2023/02/25
+    text: <a href="https://arxiv.org/pdf/2302.13075.pdf">BOP'22</a> report is on arXiv and will be published at <a href="https://cv4mr.github.io/">CV4MR workshop</a> at CVPR 2023.
+  - date: 2023/01/16
+    text: Received the <a href="data/hodan_rectors_prize_for_phd_thesis_2021.pdf">Rector's Prize for an outstanding PhD thesis</a>.
+  - date: 2022/07/08
+    text: <a href="https://arxiv.org/pdf/2208.00113.pdf">Neural Correspondence Field</a> accepted to <a href="https://eccv2022.ecva.net/">ECCV 2022</a> in Tel-Aviv.
+  - date: 2022/05/01
+    text: <a href="https://bop.felk.cvut.cz/challenges/bop-challenge-2022/">BOP Challenge 2022</a> opened.
+  - date: 2022/05/01
+    text: Organizing the <a href="http://cmp.felk.cvut.cz/sixd/workshop_2022">7th R6D Workshop</a> at <a href="https://eccv2022.ecva.net/">ECCV 2022</a> in Tel-Aviv.
+  - date: 2022/03/01
+    text: <a href="https://www.iri.upc.edu/people/ecorona/lisa/">LISA</a>, our neural hand model, accepted to <a href="https://cvpr2022.thecvf.com/">CVPR 2022</a> in New Orleans.
+  - date: 2021/07/07
+    text: PhD defended! A recording of the defense is available on <a href="https://youtu.be/WAQmubEXCRM">YouTube</a>.
+  - date: 2020/11/02
+    text: Joining <a href="https://about.fb.com/realitylabs/">Facebook Reality Labs</a> in Redmond as a Research Scientist.
+  - date: 2020/10/02
+    text: Code and pre-trained models of <a href="http://cmp.felk.cvut.cz/epos/">EPOS</a> are available on <a href="https://github.com/thodan/epos">GitHub</a>.
+  - date: 2020/09/15
+    text: An analysis of the BOP Challenge 2020 results is now available in an <a href="https://arxiv.org/pdf/2009.07378.pdf">ECCVW 2020 paper</a>.
+  - date: 2020/07/12
+    text: <a href="https://sim2real.github.io/assets/papers/2020/denninger.pdf">A paper about BlenderProc</a> accepted to the <a href="https://sim2real.github.io/">sim2real workshop</a> at <a href="https://roboticsconference.org/">RSS 2020</a>.
+  - date: 2020/07/03
+    text: <a href="https://arxiv.org/pdf/2007.00799.pdf">A paper on learning surrogates</a> accepted to <a href="https://eccv2020.eu/">ECCV 2020</a>.
+  - date: 2020/06/05
+    text: <a href="https://bop.felk.cvut.cz/challenges/bop-challenge-2020/">BOP Challenge 2020</a> announced, together with <a href="https://github.com/DLR-RM/BlenderProc/blob/master/README_BlenderProc4BOP.md">BlenderProc4BOP</a>.
+  - date: 2020/04/01
+    text: EPOS, our <a href="http://cvpr2020.thecvf.com/">CVPR 2020</a> paper, is now available on <a href="https://arxiv.org/pdf/2004.00605.pdf">arXiv.org</a>.
+  - date: 2020/02/16
+    text: Organizing the <a href="http://cmp.felk.cvut.cz/sixd/workshop_2020">6th R6D Workshop</a> at <a href="https://eccv2020.eu/">ECCV 2020</a> in Glasgow.
+  - date: 2019/11/17
+    text: <a href="https://thodan.github.io/objectsynth/">Photorealistic synthetic images</a> from our <a href="https://arxiv.org/pdf/1902.03334.pdf">ICIP'19 paper</a> released.
+  - date: 2019/07/26
+    text: <a href="https://bop.felk.cvut.cz/challenges/bop-challenge-2019/">BOP Challenge 2019</a> has been opened.
+  - date: 2019/05/20
+    text: Invited talk at <a href="http://campar.in.tum.de/Main/SlobodanIlic">Siemens AG Research & Technology Center</a> in Munich.
+  - date: 2019/05/01
+    text: Organizing the <a href="http://cmp.felk.cvut.cz/sixd/workshop_2019">5th R6D Workshop</a> at <a href="http://iccv2019.thecvf.com/">ICCV 2019</a> in Seoul.
+  - date: 2019/04/30
+    text: <a href="https://arxiv.org/pdf/1902.03334.pdf">Our paper</a> with Microsoft Research accepted to <a href="http://2019.ieeeicip.org/">ICIP 2019</a> in Taipei.
+  - date: 2018/11/19
+    text: Internship at <a href="https://ai.google/research/teams/cloud-ai/">Google</a> in Munich, working with <a href="http://www.stefan-hinterstoisser.com/">Stefan Hinterstoisser</a>.
+  - date: 2018/09/09
+    text: Organizing the <a href="http://cmp.felk.cvut.cz/sixd/workshop_2018">4th R6D Workshop</a> at <a href="http://eccv2018.org">ECCV 2018</a> in Munich.
+  - date: 2018/07/03
+    text: <a href="data/hodan2018bop.pdf">Our BOP paper</a> accepted to <a href="http://eccv2018.org">ECCV 2018</a> in Munich.
+  - date: 2018/06/04
+    text: Internship at <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-redmond/">MSR</a> in Redmond, with <a href="https://www.microsoft.com/en-us/research/people/vivineet/">Vibhav Vineet</a>, <a href="https://www.microsoft.com/en-us/research/people/sudipsin/">Sudipta Sinha</a>, <a href="https://www.microsoft.com/en-us/research/people/bguenter/">Brian Guenter</a>.
+  - date: 2017/08/11
+    text: Colloquium talk about 6D object pose estimation at the <a href="http://www.tut.fi/en">Tampere University</a>.
+  - date: 2017/05/06
+    text: Organizing the <a href="http://cmp.felk.cvut.cz/sixd/workshop_2017">3rd R6D Workshop</a> at <a href="http://iccv2017.thecvf.com/">ICCV 2017</a> in Venice.
+  - date: 2017/03/28
+    text: <a href="http://cmp.felk.cvut.cz/t-less/">T-LESS</a> presented at <a href="http://pamitc.org/wacv2017/">WACV 2017</a> in Santa Rosa.
