@@ -19,7 +19,7 @@ main:
   - date: 2023/02/25
     text: <a href="https://arxiv.org/pdf/2302.13075.pdf">BOP'22</a> report is on arXiv and will be published at <a href="https://cv4mr.github.io/">CV4MR workshop</a> at CVPR 2023.
   - date: 2023/01/16
-    text: Received the <a href="data/hodan_rectors_prize_for_phd_thesis_2021.pdf">Rector's Prize for an outstanding PhD thesis</a>.
+    text: Received the <a href="assets/data/hodan_rectors_prize_for_phd_thesis_2021.pdf">Rector's Prize for an outstanding PhD thesis</a>.
   - date: 2022/07/08
     text: <a href="https://arxiv.org/pdf/2208.00113.pdf">Neural Correspondence Field</a> accepted to <a href="https://eccv2022.ecva.net/">ECCV 2022</a> in Tel-Aviv.
   - date: 2022/05/01
