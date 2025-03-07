@@ -1,5 +1,6 @@
 main:
-
+  - date: 2025/03/07
+    text: <a href="https://bop.felk.cvut.cz/challenges/bop-challenge-2025/">BOP Challenge 2025</a> opened and awaits your submissions!
   - date: 2025/03/07
     text: Co-organizing <a href="https://bpc.opencv.org/">Perception Challenge for Bin-Picking</a> together with <a href="https://pira-workshop.github.io/">PIRA workshop</a> at CVPR 2025 in Nashville.</li>
   - date: 2025/02/26
