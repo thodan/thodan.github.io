@@ -3,7 +3,7 @@ main:
 
   - title: "HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos"
     authors: Prithviraj Banerjee, Sindi Shkodrani, Pierre Moulon, Shreyas Hampali, Shangchen Han, Fan Zhang, Linguang Zhang, Jade Fountain, Edward Miller, Selen Basol, Richard Newcombe, Robert Wang, Jakob Julian Engel, <u>Tomas Hodan</u>
-    conference: CVPR 2025, Nashville
+    conference: CVPR 2025, Nashville (accepted as highlight)
     conference_link: https://cvpr.thecvf.com/Conferences/2025
     image: assets/img/banerjee2024hot3d_thumb.jpg
     links:
