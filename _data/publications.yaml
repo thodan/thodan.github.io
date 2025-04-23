@@ -1,5 +1,15 @@
 main:
 
+  - title: "BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation"
+    authors: Van Nguyen Nguyen, Stephen Tyree, Andrew Guo, Médéric Fourmy, Anas Gouda, Taeyeop Lee, Sungphill Moon, Hyeontae Son, Lukas Ranftl, Jonathan Tremblay, Eric Brachmann, Bertram Drost, Vincent Lepetit, Carsten Rother, Stan Birchfield, Jiri Matas, Yann Labbé, Martin Sundermeyer, <u>Tomas Hodan</u>
+    conference: CVPR Workshops (CV4MR) 2025, Nashville
+    conference_link: https://cv4mr.github.io/
+    image: assets/img/nguyen2024bop_thumb.jpg
+    links:
+      - name: Paper
+        url: https://arxiv.org/pdf/2504.02812
+      - name: Web
+        url: https://bop.felk.cvut.cz/challenges/bop-challenge-2024/
 
   - title: "HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos"
     authors: Prithviraj Banerjee, Sindi Shkodrani, Pierre Moulon, Shreyas Hampali, Shangchen Han, Fan Zhang, Linguang Zhang, Jade Fountain, Edward Miller, Selen Basol, Richard Newcombe, Robert Wang, Jakob Julian Engel, <u>Tomas Hodan</u>
