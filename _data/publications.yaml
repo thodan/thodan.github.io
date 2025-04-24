@@ -47,6 +47,8 @@ main:
         url: https://evinpinar.github.io/foundpose/
       - name: Code
         url: https://github.com/facebookresearch/foundpose
+      - name: Poster
+        url: assets/data/ornek2024foundpose_poster.pdf
 
 
   - title: BOP Challenge 2023 on Detection, Segmentation and Pose Estimation of Seen and Unseen Rigid Objects
