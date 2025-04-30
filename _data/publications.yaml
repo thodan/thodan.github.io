@@ -141,8 +141,6 @@ main:
         url: https://github.com/LinHuang17/NCF-code
       - name: Web
         url: https://linhuang17.github.io/NCF/
-      - name: BibTeX
-        url: assets/data/huang2022ncf.bib
 
 
   - title: "LISA: Learning Implicit Shape and Appearance of Hands"
