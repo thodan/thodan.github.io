@@ -153,8 +153,6 @@ main:
         url: http://www.iri.upc.edu/people/ecorona/lisa/paper.pdf
       - name: Web
         url: https://www.iri.upc.edu/people/ecorona/lisa/
-      - name: BibTeX
-        url: assets/data/corona2022lisa.bib
 
 
   - title: BOP Challenge 2020 on 6D Object Localization
