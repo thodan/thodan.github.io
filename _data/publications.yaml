@@ -65,7 +65,7 @@ main:
 
   - title: "CNOS: A Strong Baseline for CAD-based Novel Object Segmentation"
     authors: Van Nguyen Nguyen, Thibault Groueix, Georgy Ponimatkin, Vincent Lepetit, <u>Tomas Hodan</u>
-    conference: ICCV Workshops (R6D) 2023, Vancouver
+    conference: ICCV Workshops (R6D) 2023, Paris
     conference_link: https://cmp.felk.cvut.cz/sixd/workshop_2023/
     image: assets/img/nguyen2023cnos_thumb.jpg
     links:
