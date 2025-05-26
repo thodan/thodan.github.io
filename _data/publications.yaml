@@ -10,6 +10,8 @@ main:
         url: https://arxiv.org/pdf/2504.02812
       - name: Web
         url: https://bop.felk.cvut.cz/challenges/bop-challenge-2024/
+      - name: Poster
+        url: https://thodan.github.io/assets/data/nguyen2024bop_poster.pdf
 
   - title: "HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos"
     authors: Prithviraj Banerjee, Sindi Shkodrani, Pierre Moulon, Shreyas Hampali, Shangchen Han, Fan Zhang, Linguang Zhang, Jade Fountain, Edward Miller, Selen Basol, Richard Newcombe, Robert Wang, Jakob Julian Engel, <u>Tomas Hodan</u>
