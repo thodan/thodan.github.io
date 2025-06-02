@@ -23,6 +23,8 @@ main:
         url: https://arxiv.org/pdf/2411.19167
       - name: Web
         url: https://facebookresearch.github.io/hot3d
+      - name: Poster
+        url: https://facebookresearch.github.io/hot3d/assets/HOT3D_CVPR25_poster.pdf
 
 
   - title: "DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions"
