@@ -1,5 +1,16 @@
 main:
 
+  - title: "GoTrack: Generic 6DoF Object Pose Refinement and Tracking"
+    authors: Van Nguyen Nguyen, Christian Forster, Sindi Shkodrani, Vincent Lepetit, Bugra Tekin, Cem Keskin, <u>Tomas Hodan</u>
+    conference: CVPR Workshops (CV4MR) 2025, Nashville
+    conference_link: https://cv4mr.github.io/
+    image: assets/img/nguyen2024gotrack_thumb.jpg
+    links:
+      - name: Coming soon
+        url: ...
+      - name: Code
+        url: https://github.com/facebookresearch/gotrack
+
   - title: "BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation"
     authors: Van Nguyen Nguyen, Stephen Tyree, Andrew Guo, Médéric Fourmy, Anas Gouda, Taeyeop Lee, Sungphill Moon, Hyeontae Son, Lukas Ranftl, Jonathan Tremblay, Eric Brachmann, Bertram Drost, Vincent Lepetit, Carsten Rother, Stan Birchfield, Jiri Matas, Yann Labbé, Martin Sundermeyer, <u>Tomas Hodan</u>
     conference: CVPR Workshops (CV4MR) 2025, Nashville
