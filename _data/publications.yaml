@@ -1,5 +1,18 @@
 main:
 
+  - title: "HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos"
+    authors: Prithviraj Banerjee, Sindi Shkodrani, Pierre Moulon, Shreyas Hampali, Shangchen Han, Fan Zhang, Linguang Zhang, Jade Fountain, Edward Miller, Selen Basol, Richard Newcombe, Robert Wang, Jakob Julian Engel, <u>Tomas Hodan</u>
+    conference: CVPR 2025, Nashville (accepted as highlight)
+    conference_link: https://cvpr.thecvf.com/Conferences/2025
+    image: assets/img/banerjee2025hot3d_thumb.jpg
+    links:
+      - name: Paper
+        url: https://arxiv.org/pdf/2411.19167
+      - name: Web
+        url: https://facebookresearch.github.io/hot3d
+      - name: Poster
+        url: https://facebookresearch.github.io/hot3d/assets/HOT3D_CVPR25_poster.pdf
+
   - title: "GoTrack: Generic 6DoF Object Pose Refinement and Tracking"
     authors: Van Nguyen Nguyen, Christian Forster, Sindi Shkodrani, Vincent Lepetit, Bugra Tekin, Cem Keskin, <u>Tomas Hodan</u>
     conference: CVPR Workshops (CV4MR) 2025, Nashville
@@ -23,20 +36,6 @@ main:
         url: https://bop.felk.cvut.cz/challenges/bop-challenge-2024/
       - name: Poster
         url: https://thodan.github.io/assets/data/nguyen2024bop_poster.pdf
-
-  - title: "HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos"
-    authors: Prithviraj Banerjee, Sindi Shkodrani, Pierre Moulon, Shreyas Hampali, Shangchen Han, Fan Zhang, Linguang Zhang, Jade Fountain, Edward Miller, Selen Basol, Richard Newcombe, Robert Wang, Jakob Julian Engel, <u>Tomas Hodan</u>
-    conference: CVPR 2025, Nashville (accepted as highlight)
-    conference_link: https://cvpr.thecvf.com/Conferences/2025
-    image: assets/img/banerjee2024hot3d_thumb.jpg
-    links:
-      - name: Paper
-        url: https://arxiv.org/pdf/2411.19167
-      - name: Web
-        url: https://facebookresearch.github.io/hot3d
-      - name: Poster
-        url: https://facebookresearch.github.io/hot3d/assets/HOT3D_CVPR25_poster.pdf
-
 
   - title: "DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions"
     authors: Sammy Christen, Shreyas Hampali, Fadime Sener, Edoardo Remelli, <u>Tomas Hodan</u>, Eric Sauser, Shugao Ma, Bugra Tekin
