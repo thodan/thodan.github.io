@@ -6,7 +6,7 @@ main:
     conference_link: https://cv4mr.github.io/
     image: assets/img/nguyen2025gotrack_thumb.jpg
     links:
-      - name: Coming soon
+      - name: Paper (coming soon)
         url: ...
       - name: Code
         url: https://github.com/facebookresearch/gotrack
