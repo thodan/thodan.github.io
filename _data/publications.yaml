@@ -19,8 +19,8 @@ main:
     conference_link: https://cv4mr.github.io/
     image: assets/img/nguyen2025gotrack_thumb.jpg
     links:
-      - name: Paper (coming soon)
-        url: ...
+      - name: Paper
+        url: https://www.arxiv.org/pdf/2506.07155
       - name: Code
         url: https://github.com/facebookresearch/gotrack
 
