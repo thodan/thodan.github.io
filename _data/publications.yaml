@@ -2,8 +2,9 @@ main:
 
   - title: "HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos"
     authors: Prithviraj Banerjee, Sindi Shkodrani, Pierre Moulon, Shreyas Hampali, Shangchen Han, Fan Zhang, Linguang Zhang, Jade Fountain, Edward Miller, Selen Basol, Richard Newcombe, Robert Wang, Jakob Julian Engel, <u>Tomas Hodan</u>
-    conference: CVPR 2025, Nashville (accepted as highlight)
+    conference: CVPR 2025, Nashville
     conference_link: https://cvpr.thecvf.com/Conferences/2025
+    award: Accepted as highlight
     image: assets/img/banerjee2025hot3d_thumb.jpg
     links:
       - name: Paper
@@ -12,6 +13,17 @@ main:
         url: https://facebookresearch.github.io/hot3d
       - name: Poster
         url: https://facebookresearch.github.io/hot3d/assets/HOT3D_CVPR25_poster.pdf
+
+  - title: "GoTrack: Generic 6DoF Object Pose Refinement and Tracking"
+    authors: Van Nguyen Nguyen, Christian Forster, Sindi Shkodrani, Vincent Lepetit, Bugra Tekin, Cem Keskin, <u>Tomas Hodan</u>
+    conference: CVPR Workshops (CV4MR) 2025, Nashville
+    conference_link: https://cv4mr.github.io/
+    image: assets/img/nguyen2025gotrack_thumb.jpg
+    links:
+      - name: Paper
+        url: https://www.arxiv.org/pdf/2506.07155
+      - name: Code
+        url: https://github.com/facebookresearch/gotrack
 
   - title: "BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation"
     authors: Van Nguyen Nguyen, Stephen Tyree, Andrew Guo, Médéric Fourmy, Anas Gouda, Taeyeop Lee, Sungphill Moon, Hyeontae Son, Lukas Ranftl, Jonathan Tremblay, Eric Brachmann, Bertram Drost, Vincent Lepetit, Carsten Rother, Stan Birchfield, Jiri Matas, Yann Labbé, Martin Sundermeyer, <u>Tomas Hodan</u>
@@ -26,17 +38,6 @@ main:
         url: https://bop.felk.cvut.cz/challenges/bop-challenge-2024/
       - name: Poster
         url: https://thodan.github.io/assets/data/nguyen2024bop_poster.pdf
-
-  - title: "GoTrack: Generic 6DoF Object Pose Refinement and Tracking"
-    authors: Van Nguyen Nguyen, Christian Forster, Sindi Shkodrani, Vincent Lepetit, Bugra Tekin, Cem Keskin, <u>Tomas Hodan</u>
-    conference: CVPR Workshops (CV4MR) 2025, Nashville
-    conference_link: https://cv4mr.github.io/
-    image: assets/img/nguyen2025gotrack_thumb.jpg
-    links:
-      - name: Paper
-        url: https://www.arxiv.org/pdf/2506.07155
-      - name: Code
-        url: https://github.com/facebookresearch/gotrack
 
   - title: "DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions"
     authors: Sammy Christen, Shreyas Hampali, Fadime Sener, Edoardo Remelli, <u>Tomas Hodan</u>, Eric Sauser, Shugao Ma, Bugra Tekin
