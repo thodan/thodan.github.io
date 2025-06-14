@@ -13,6 +13,16 @@
     <div class="col-sm-8">
       <b>{{ pub.title }}</b><br />
       {{ pub.authors }}<br />
+
+      {% if pub.award %}
+      <span class="award">
+      {% if pub.award_link %}
+      <a href="{{ pub.award_link }}">{{ pub.award }}</a><br />
+      {% else %}
+      {{ pub.award }}<br />
+      {% endif %}
+      </span>
+      {% endif %}
       
       {% if pub.conference_link %}
       <a href="{{ pub.conference_link }}">{{ pub.conference }}</a><br />
