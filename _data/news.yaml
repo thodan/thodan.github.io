@@ -2,7 +2,7 @@ main:
   - date: 2025/06/12
     text: <a href="http://openaccess.thecvf.com/content/CVPR2023/papers/Ohkawa_AssemblyHands_Towards_Egocentric_Activity_Understanding_via_3D_Hand_Pose_Estimation_CVPR_2023_paper.pdf">AssemblyHands</a> received <a href="https://egovis.github.io/awards/2023_2024/">EgoVis 2023/2024 Distinguished Paper Award</a>.
   - date: 2025/06/11
-    text: <a href="https://arxiv.org/pdf/2504.02812">BOP 2024 report</a> received Best Paper Award at <a href="https://cv4mr.github.io/">CV4MR CVPR 2025 workshop</a>.
+    text: <a href="https://arxiv.org/pdf/2504.02812">BOP 2024 report</a> received Best Paper Award at <a href="https://cv4mr.github.io/">CV4MR workshop</a> at CVPR 2025.
   - date: 2025/03/07
     text: <a href="https://bop.felk.cvut.cz/challenges/bop-challenge-2025/">BOP Challenge 2025</a> opened and awaits your submissions!
   - date: 2025/03/07
