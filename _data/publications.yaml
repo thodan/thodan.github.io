@@ -13,6 +13,20 @@ main:
       - name: Poster
         url: https://facebookresearch.github.io/hot3d/assets/HOT3D_CVPR25_poster.pdf
 
+  - title: "BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation"
+    authors: Van Nguyen Nguyen, Stephen Tyree, Andrew Guo, Médéric Fourmy, Anas Gouda, Taeyeop Lee, Sungphill Moon, Hyeontae Son, Lukas Ranftl, Jonathan Tremblay, Eric Brachmann, Bertram Drost, Vincent Lepetit, Carsten Rother, Stan Birchfield, Jiri Matas, Yann Labbé, Martin Sundermeyer, <u>Tomas Hodan</u>
+    conference: CVPR Workshops (CV4MR) 2025, Nashville
+    conference_link: https://cv4mr.github.io/
+    award: CV4MR Best Paper Award
+    image: assets/img/nguyen2024bop_thumb.jpg
+    links:
+      - name: Paper
+        url: https://arxiv.org/pdf/2504.02812
+      - name: Web
+        url: https://bop.felk.cvut.cz/challenges/bop-challenge-2024/
+      - name: Poster
+        url: https://thodan.github.io/assets/data/nguyen2024bop_poster.pdf
+
   - title: "GoTrack: Generic 6DoF Object Pose Refinement and Tracking"
     authors: Van Nguyen Nguyen, Christian Forster, Sindi Shkodrani, Vincent Lepetit, Bugra Tekin, Cem Keskin, <u>Tomas Hodan</u>
     conference: CVPR Workshops (CV4MR) 2025, Nashville
@@ -23,19 +37,6 @@ main:
         url: https://www.arxiv.org/pdf/2506.07155
       - name: Code
         url: https://github.com/facebookresearch/gotrack
-
-  - title: "BOP Challenge 2024 on Model-Based and Model-Free 6D Object Pose Estimation"
-    authors: Van Nguyen Nguyen, Stephen Tyree, Andrew Guo, Médéric Fourmy, Anas Gouda, Taeyeop Lee, Sungphill Moon, Hyeontae Son, Lukas Ranftl, Jonathan Tremblay, Eric Brachmann, Bertram Drost, Vincent Lepetit, Carsten Rother, Stan Birchfield, Jiri Matas, Yann Labbé, Martin Sundermeyer, <u>Tomas Hodan</u>
-    conference: CVPR Workshops (CV4MR) 2025, Nashville
-    conference_link: https://cv4mr.github.io/
-    image: assets/img/nguyen2024bop_thumb.jpg
-    links:
-      - name: Paper
-        url: https://arxiv.org/pdf/2504.02812
-      - name: Web
-        url: https://bop.felk.cvut.cz/challenges/bop-challenge-2024/
-      - name: Poster
-        url: https://thodan.github.io/assets/data/nguyen2024bop_poster.pdf
 
   - title: "DiffH2O: Diffusion-Based Synthesis of Hand-Object Interactions from Textual Descriptions"
     authors: Sammy Christen, Shreyas Hampali, Fadime Sener, Edoardo Remelli, <u>Tomas Hodan</u>, Eric Sauser, Shugao Ma, Bugra Tekin
@@ -109,6 +110,8 @@ main:
     authors: Takehiko Ohkawa, Kun He, Fadime Sener, <u>Tomas Hodan</u>, Luan Tran, Cem Keskin
     conference: CVPR 2023, Vancouver
     conference_link: https://cvpr.thecvf.com/Conferences/2023
+    award: EgoVis 2023/2024 Distinguished Paper Award
+    award_link: https://egovis.github.io/awards/2023_2024/
     image: assets/img/ohkawa2022assemblyhands_thumb.jpg
     links:
       - name: Paper
