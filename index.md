@@ -1,5 +1,8 @@
 ---
 layout: default
+title: Tomas Hodan
+seo:
+  title: Tomas Hodan
 ---
 
 
