@@ -3,6 +3,7 @@ layout: default
 title: Tomas Hodan
 seo:
   title: Tomas Hodan
+  image: https://thodan.github.io/assets/img/Tomas_Hodan_2022_square.jpg
 ---
 
 
