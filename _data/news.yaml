@@ -4,11 +4,11 @@ main:
   - date: 2025/06/12
     text: <a href="http://openaccess.thecvf.com/content/CVPR2023/papers/Ohkawa_AssemblyHands_Towards_Egocentric_Activity_Understanding_via_3D_Hand_Pose_Estimation_CVPR_2023_paper.pdf">AssemblyHands</a> received <a href="https://egovis.github.io/awards/2023_2024/">EgoVis 2023/2024 Distinguished Paper Award</a>.
   - date: 2025/06/11
-    text: <a href="https://arxiv.org/pdf/2504.02812">BOP 2024 report</a> received Best Paper Award at <a href="https://cv4mr.github.io/">CV4MR workshop</a> at CVPR 2025.
+    text: <a href="https://arxiv.org/pdf/2504.02812">BOP 2024 report</a> received Best Paper Award at <a href="https://cv4mr.github.io/">CV4MR Workshop</a> at CVPR 2025.
   - date: 2025/03/07
     text: <a href="https://bop.felk.cvut.cz/challenges/bop-challenge-2025/">BOP Challenge 2025</a> opened and awaits your submissions!
   - date: 2025/03/07
-    text: Co-organizing <a href="https://bpc.opencv.org/">Perception Challenge for Bin-Picking</a> and <a href="https://pira-workshop.github.io/">PIRA workshop</a> at CVPR 2025.
+    text: Co-organizing <a href="https://bpc.opencv.org/">Perception Challenge for Bin-Picking</a> and <a href="https://pira-workshop.github.io/">PIRA Workshop</a> at CVPR 2025.
   - date: 2025/02/26
     text: <a href="https://arxiv.org/pdf/2411.19167">HOT3D</a> accepted (as highlight) to <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a> in Nashville.
   - date: 2024/10/03
@@ -48,7 +48,7 @@ main:
   - date: 2020/09/15
     text: An analysis of the BOP Challenge 2020 results is now available in an <a href="https://arxiv.org/pdf/2009.07378.pdf">ECCVW 2020 paper</a>.
   - date: 2020/07/12
-    text: <a href="https://sim2real.github.io/assets/papers/2020/denninger.pdf">A paper about BlenderProc</a> accepted to the <a href="https://sim2real.github.io/">sim2real workshop</a> at <a href="https://roboticsconference.org/">RSS 2020</a>.
+    text: <a href="https://sim2real.github.io/assets/papers/2020/denninger.pdf">A paper about BlenderProc</a> accepted to the <a href="https://sim2real.github.io/">Sim2Real Workshop</a> at <a href="https://roboticsconference.org/">RSS 2020</a>.
   - date: 2020/07/03
     text: <a href="https://arxiv.org/pdf/2007.00799.pdf">A paper on learning surrogates</a> accepted to <a href="https://eccv2020.eu/">ECCV 2020</a>.
   - date: 2020/06/05
