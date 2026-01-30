@@ -1,6 +1,8 @@
 main:
-  # - date: 2026/06/03
-  #   text: Co-organizing the <a href="https://sense-of-space.github.io/">1st Sense of Space Workshop</a> at CVPR 2026 in Denver.
+  - date: 2026/06/03
+    text: Co-organizing the <a href="https://sense-of-space.github.io/">1st Sense of Space Workshop</a> at CVPR 2026 in Denver.
+  - date: 2026/01/01
+    text: Serving as an Area Chair for <a href="https://cvpr.thecvf.com/Conferences/2026">CVPR 2026</a> and <a href="https://eccv.ecva.net/">ECCV 2026</a>.
   - date: 2025/06/12
     text: <a href="http://openaccess.thecvf.com/content/CVPR2023/papers/Ohkawa_AssemblyHands_Towards_Egocentric_Activity_Understanding_via_3D_Hand_Pose_Estimation_CVPR_2023_paper.pdf">AssemblyHands</a> received <a href="https://egovis.github.io/awards/2023_2024/">EgoVis 2023/2024 Distinguished Paper Award</a>.
   - date: 2025/06/11
@@ -11,6 +13,8 @@ main:
     text: Co-organizing <a href="https://bpc.opencv.org/">Perception Challenge for Bin-Picking</a> and <a href="https://pira-workshop.github.io/">PIRA Workshop</a> at CVPR 2025.
   - date: 2025/02/26
     text: <a href="https://arxiv.org/pdf/2411.19167">HOT3D</a> accepted (as highlight) to <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a> in Nashville.
+  - date: 2025/01/01
+    text: Serving as an Area Chair for <a href="https://cvpr.thecvf.com/Conferences/2025">CVPR 2025</a>.
   - date: 2024/10/03
     text: <a href="https://arxiv.org/pdf/2311.18809">FoundPose</a> presented at <a href="https://eccv2024.ecva.net/">ECCV 2024</a> in Milan.
   - date: 2024/09/29
