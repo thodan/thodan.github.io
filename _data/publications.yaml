@@ -1,5 +1,26 @@
 main:
 
+  - title: "SHOW3D: Capturing Scenes of 3D Hands and Objects in the Wild"
+    authors: Patrick Rim, Kevin Harris, Braden Copple, Shangchen Han, Xu Xie, Ivan Shugurov, Sizhe An, He Wen, Alex Wong, <u>Tomas Hodan</u>, Kun He
+    conference: CVPR 2026, Denver
+    conference_link: https://cvpr.thecvf.com/Conferences/2026
+    image: assets/img/rim2026show3d_thumb.jpg
+    links:
+      - name: Paper
+        url: https://arxiv.org/pdf/2603.28760
+      - name: Web
+        url: https://show3d-dataset.github.io
+
+  - title: "EgoPoseFormer v2: Accurate Egocentric Human Motion Estimation for AR/VR"
+    authors: Zhenyu Li, Sai Kumar Dwivedi, Filip Maric, Carlos Chacon, Nadine Bertsch, Filippo Arcadu, <u>Tomas Hodan</u>, Michael Ramamonjisoa, Peter Wonka, Amy Zhao, Robin Kips, Cem Keskin, Anastasia Tkach, Chenhongyi Yang
+    conference: CVPR 2026, Denver
+    conference_link: https://cvpr.thecvf.com/Conferences/2026
+    award: Accepted as highlight
+    image: assets/img/li2026egoposeformerv2_thumb.jpg
+    links:
+      - name: Paper
+        url: https://arxiv.org/pdf/2603.04090
+
   - title: "HOT3D: Hand and Object Tracking in 3D from Egocentric Multi-View Videos"
     authors: Prithviraj Banerjee, Sindi Shkodrani, Pierre Moulon, Shreyas Hampali, Shangchen Han, Fan Zhang, Linguang Zhang, Jade Fountain, Edward Miller, Selen Basol, Richard Newcombe, Robert Wang, Jakob Julian Engel, <u>Tomas Hodan</u>
     conference: CVPR 2025, Nashville
