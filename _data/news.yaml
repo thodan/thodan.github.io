@@ -1,12 +1,20 @@
 main:
+  - date: 2026/09/08
+    text: Organizing the <a href="http://cmp.felk.cvut.cz/sixd/workshop_2026">11th R6D Workshop</a> at <a href="https://eccv.ecva.net/Conferences/2026">ECCV 2026</a> in Malmö.
+  - date: 2026/06/03
+    text: <a href="https://facebookresearch.github.io/hot3d">HOT3D</a> received the <a href="https://egovis.github.io/awards/2024_2025/">EgoVis 2024/2025 Distinguished Paper Award</a>.
+  - date: 2026/06/03
+    text: Co-organized the <a href="https://sense-of-space.github.io/">1st Sense of Space Workshop</a> at CVPR 2026 in Denver.
+  - date: 2026/05/11
+    text: Joining <a href="https://mistral.ai/">Mistral</a> in Paris as an AI Scientist, working on multimodal LLMs and robotics.
   - date: 2026/02/21
     text: 2 papers accepted at CVPR 2026 (<a href="https://arxiv.org/pdf/2603.28760">SHOW3D</a> and <a href="https://arxiv.org/pdf/2603.04090">EgoPoseFormer v2</a>).
-  - date: 2026/02/01
-    text: Co-organizing the <a href="https://sense-of-space.github.io/">1st Sense of Space Workshop</a> at CVPR 2026 in Denver.
   - date: 2026/01/01
     text: Serving as an Area Chair for <a href="https://cvpr.thecvf.com/Conferences/2026">CVPR 2026</a> and <a href="https://eccv.ecva.net/">ECCV 2026</a>.
+  - date: 2025/10/19
+    text: Organized the <a href="http://cmp.felk.cvut.cz/sixd/workshop_2025">10th R6D Workshop</a> at <a href="https://iccv.thecvf.com/Conferences/2025">ICCV 2025</a> in Honolulu.
   - date: 2025/06/12
-    text: <a href="http://openaccess.thecvf.com/content/CVPR2023/papers/Ohkawa_AssemblyHands_Towards_Egocentric_Activity_Understanding_via_3D_Hand_Pose_Estimation_CVPR_2023_paper.pdf">AssemblyHands</a> received <a href="https://egovis.github.io/awards/2023_2024/">EgoVis 2023/2024 Distinguished Paper Award</a>.
+    text: <a href="http://openaccess.thecvf.com/content/CVPR2023/papers/Ohkawa_AssemblyHands_Towards_Egocentric_Activity_Understanding_via_3D_Hand_Pose_Estimation_CVPR_2023_paper.pdf">AssemblyHands</a> received the <a href="https://egovis.github.io/awards/2023_2024/">EgoVis 2023/2024 Distinguished Paper Award</a>.
   - date: 2025/06/11
     text: <a href="https://arxiv.org/pdf/2504.02812">BOP 2024 report</a> received Best Paper Award at <a href="https://cv4mr.github.io/">CV4MR Workshop</a> at CVPR 2025.
   - date: 2025/03/07
